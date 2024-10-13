@@ -1,0 +1,7 @@
+# gitignore
+.git/
+vendor/
+docs/
+README.md
+LICENSE
+LICENSE.txt
